@@ -1,5 +1,5 @@
-# SPAWAR-Research-Project
-Research and Development conducted at the Space and Naval Warfare Systems Center. Please see the research poster in this repository that I created with my small team of interns!
+# SPAWAR Research Project
+Here is a research and development project conducted at the Space and Naval Warfare Systems Center in the Summer of 2018. Please see the research poster in this repository that I created with my small team of interns!
 
 ## Research?
 Yes! I conducted research and development during my internship at SPAWAR in San Diego, California.
