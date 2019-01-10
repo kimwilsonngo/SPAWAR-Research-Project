@@ -12,12 +12,12 @@ Testing times were cut by an average 57%. Installation times were cut from 17 da
 
 ## Technical Details
 ```
-**Coding Languages:** JavaScript and Python
+Coding Languages: JavaScript and Python
 ```
 ```
-**Software:** Smartbear TestComplete
+Software: Smartbear TestComplete
 ```
 ```
-**Clearance:** DoD Secret
+Clearance: DoD Secret
 ```
 
