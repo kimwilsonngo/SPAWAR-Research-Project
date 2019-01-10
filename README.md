@@ -11,7 +11,13 @@ I utilized my technical capabilities in order to create a new testing system for
 Testing times were cut by an average 57%. Installation times were cut from 17 days to 5 days onboard naval vessels. This means that both Navy Sailors and SPAWAR engineers experience a reduction of time spent towards testing this software.
 
 ### Technical Details
+'''
 Coding Languages: JavaScript and Python
+'''
+'''
 Software: Smartbear TestComplete
+'''
+'''
 Clearance: DoD Secret
+'''
 
